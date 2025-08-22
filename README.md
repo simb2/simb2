@@ -12,7 +12,7 @@
 
 - ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-- And a little [SAS](https://www.sas.com/en_us/software/stat.html) and [stan](https://mc-stan.org/)
+- Plus a little [SAS](https://www.sas.com/en_us/software/stat.html) and [stan](https://mc-stan.org/)
 
 ***
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/simb2/stats)
