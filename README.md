@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+ - ⭐ I'm a current and soon to be graduating Masters at McMaster university.
+ - 💙 I did my undergrad at UfT in Statistics with a minor in math
+ - 📖 I'm working on research topics in Dynamic Factor Models
+
 <!--
 **simb2/simb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
