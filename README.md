@@ -16,7 +16,8 @@
 
 ***
 
-<img src="https://myreadme.vercel.app/api/embed/simb2?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
 <!--
 **simb2/simb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
