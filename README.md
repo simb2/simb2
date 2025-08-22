@@ -15,7 +15,7 @@
 - And a little [SAS](https://www.sas.com/en_us/software/stat.html) and [stan](https://mc-stan.org/)
 
 ***
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=simb2&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=simb2&langs_count=3&theme=tokyonight)]()
 <!--
 **simb2/simb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
