@@ -4,6 +4,7 @@
  - 💙 I did my undergrad at UfT in Statistics with a minor in math
  - 📖 I'm working on research topics in Dynamic Factor Models
 
+***
 
 ## Coding 
 
@@ -12,6 +13,10 @@
 - ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 - And a little [SAS](https://www.sas.com/en_us/software/stat.html) and [stan](https://mc-stan.org/)
+
+***
+
+
 <!--
 **simb2/simb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
