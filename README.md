@@ -15,7 +15,6 @@
 - Plus a little [SAS](https://www.sas.com/en_us/software/stat.html) and [stan](https://mc-stan.org/)
 
 ***
-![Github Stats](https://greptile-stats.vercel.app/api/widget/simb2/stats)
 <!--
 **simb2/simb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
