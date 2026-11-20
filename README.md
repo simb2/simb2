@@ -1,8 +1,8 @@
 ## Hi there 👋
 
- - ⭐ I did my Masters at McMaster university.
- - 💙 I did my undergrad at UfT in Statistics with a minor in math
- - 📖 I'm working on research topics in Factor Models
+* ⭐ I did my Master's in Statistics at McMaster University
+* 💙 I did my undergrad at U of T, specializing in Applied Statistics with a minor in Math
+* 📖 I'm working on research in Bayesian factor models
 
 ***
 
